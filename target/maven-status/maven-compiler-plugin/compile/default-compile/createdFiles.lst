@@ -1,0 +1,11 @@
+pl\polsl\zagorski\model\Polynomial.class
+pl\polsl\zagorski\model\DerativeCalculator.class
+pl\polsl\zagorski\model\Derivative.class
+pl\polsl\zagorski\model\DerativeCoefficientCalc.class
+pl\polsl\zagorski\controller\package-info.class
+pl\polsl\zagorski\controller\PolynominalController.class
+pl\polsl\zagorski\main\Main.class
+pl\polsl\zagorski\model\MyException.class
+pl\polsl\zagorski\view\package-info.class
+pl\polsl\zagorski\view\PolynomialView.class
+pl\polsl\zagorski\model\package-info.class

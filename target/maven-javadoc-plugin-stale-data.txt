@@ -1,0 +1,47 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/zagwi/OneDrive/Pulpit/SZKO£A/Semestr 5/Java/Lab3/derivativetocount/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/zagwi/OneDrive/Pulpit/SZKO£A/Semestr 5/Java/Lab3/derivativetocount/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'derivativetocount 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'derivativetocount 1.0-SNAPSHOT API'
+pl.polsl.zagorski.controller
+pl.polsl.zagorski.main
+pl.polsl.zagorski.model
+pl.polsl.zagorski.view
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\src\main\java = 1700243773558
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\allclasses-index.html = 1700325587654
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\allpackages-index.html = 1700325587657
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\element-list = 1700325587554
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\help-doc.html = 1700325587678
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\index-all.html = 1700325587672
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\index.html = 1700325587645
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\jquery-ui.overrides.css = 1700325587734
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\member-search-index.js = 1700325587663
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\module-search-index.js = 1700325587659
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\overview-summary.html = 1700325587674
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\overview-tree.html = 1700325587641
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\package-search-index.js = 1700325587660
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\script.js = 1700325587689
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\search.js = 1700325587691
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\serialized-form.html = 1700325587595
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\stylesheet.css = 1700325587685
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\tag-search-index.js = 1700325587664
+C:\Users\zagwi\OneDrive\Pulpit\SZKO£A\Semestr 5\Java\Lab3\derivativetocount\target\site\apidocs\type-search-index.js = 1700325587661

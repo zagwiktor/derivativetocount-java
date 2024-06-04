@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"pl.polsl.zagorski.controller"},{"l":"pl.polsl.zagorski.main"},{"l":"pl.polsl.zagorski.model"},{"l":"pl.polsl.zagorski.view"}];updateSearchResults();
